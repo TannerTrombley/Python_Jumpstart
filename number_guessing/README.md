@@ -14,3 +14,4 @@ This is a very simple app that is used to gain familiarity with the course in ge
 - Every object can be tested for validity.
     - This is exactly like testing pointers in C
     - In fact that is probably what is going on here since every variable in python is just a void pointer in C
+- Introduction to string formatting with the .format() method. Looks to be very rich with functionality. Only used very basically in this file project though
