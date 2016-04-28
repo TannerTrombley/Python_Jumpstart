@@ -6,3 +6,6 @@ Generate a random number and then ask for input trying to guess it -- simple app
 
 ## Birthday
 Prompt a user to input birth date and return the number of days to or since that day -- again...simple app. The purpose is to gain familarty with the datetime module
+
+## Journal App
+This project's purpose it to gain experience working with files in python
